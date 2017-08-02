@@ -1,0 +1,9 @@
+.item{
+    height: 200px;
+    background: black;
+    color: white;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+}
